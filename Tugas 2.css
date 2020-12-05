@@ -1,0 +1,44 @@
+/* Soal 1 */
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 20px;
+    padding-left: 30px;
+}
+
+body {
+    background-color: aqua;
+}
+
+@media screen and (max-width:992px) {
+    body {
+        background-color: aliceblue;
+    }
+}
+
+@media screen and (max-width:600px) {
+    body {
+        background-color: aquamarine;
+    }
+}
+
+/* Soal 2 */
+/*  Declaration adalah Suatu peraturan seperti (color : red;) yang menentukan properti mana dari elemen yang kamu beri gaya
+    Selector adalah Nama elemen HTML di awal rule set. Selector menandai satu atau lebih elemen yang akan diberikan gaya
+    Properties adalah cara kamu memberikan gaya terhadap elemen html
+    Property Value adalah Sebelah sisi kanan properti setelah tanda titik dua, yang memiliki satu dari banyak kemungkinan penampilan untuk properti yang di berikan
+*/
+/* Soal 3 */
+/* CSS Specificity menentukan seberapa spesifik kah sebuah aturan pada CSS */
+/* Soal 4 */
+/* Responsive Website adalah  sebuah metode atau pendekatan sistem web desain yang bertujuan memberikan pengalaman berselancar yang optimal dalam berbagai perangkat, baik mobile maupun komputer meja */
+/* Soal 5 */
+/* Media queries adalah fitur CSS 3 yang memungkinkan rendering konten beradaptasi dengan berbagai kondisi seperti resolusi layar */
+/* Soal 6 */
+/* Flexbox adalah merupakan mode layout yang ada di CSS3 dan digunakan untuk mengatur elemen di suatu halaman web. Flexbox ini akan mengatur ukuran dari elemen anaknya secara otomatis, dan mampu beradaptasi dengan ukuran containernya 
+Grid adalah salah satu fitur baru di CSS 3 yang fungsi utamanya adalah mengatur layout pada website. Meskipun penggunaannya belum sepenuhnya kompatibel di semua browser */
+/* Soal 7 */
+/* Bootstrap adalah kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web */
